@@ -52,7 +52,7 @@ Make sure Python 3 is installed on your system.
 
 Download or clone the repository:
 
-git clone- https://github.com/harmanps-77/math-quiz-game
+git clone- https://github.com/HarmanPS-77/Maths-Quiz-Game
 
 Open the project folder.
 
