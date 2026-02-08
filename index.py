@@ -237,3 +237,4 @@ if __name__ == "__main__":
     app = MathQuizGUI(root)
     root.mainloop()
 
+
